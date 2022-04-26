@@ -42,7 +42,7 @@ I seek challenging opportunities where I can fully use my technical skills HTML,
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://media.istockphoto.com/vectors/young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-vector-id1269035028" width="440" height="250" />
+ <img align="right" alt="GIF" clear = "both" src="https://media.istockphoto.com/vectors/young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-vector-id1269035028" width="400" height="220" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
