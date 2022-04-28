@@ -13,12 +13,15 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
 </p>
 
 
 <a href="https://www.linkedin.com/in/karishma-nikam/">
   <img align="left" alt="Karishma's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/karishma-nikam/">
+  <img align="left" alt="Karishma's LinkedIn" width="80px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" />
 </a>
 
 
