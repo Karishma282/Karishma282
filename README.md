@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/karishma-nikam/">
   <img align="left" alt="Karishma's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/karishma-nikam/">
+<a href="https://twitter.com/Nikam_Karishma">
   <img align="left" alt="Karishma's LinkedIn" width="80px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" />
 </a>
 
